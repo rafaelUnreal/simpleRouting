@@ -1,6 +1,6 @@
 # simpleRouting
 
-# Prefix Tree Output with 192.168.0.0/24. 10.0.0.0/8 and 172.16.0.0/16
+Prefix Tree Output with 192.168.0.0/24. 10.0.0.0/8 and 172.16.0.0/16
 ```bash
 ./a.out
 0.0.0.0/0
